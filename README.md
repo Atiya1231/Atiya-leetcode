@@ -32,4 +32,16 @@ LeetHub v2 automatically syncs my accepted solutions to this repository.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Atiya1231/Atiya-leetcode/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Atiya1231/Atiya-leetcode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Atiya1231/Atiya-leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Atiya1231/Atiya-leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

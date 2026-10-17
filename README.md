@@ -40,6 +40,7 @@ LeetHub v2 automatically syncs my accepted solutions to this repository.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Atiya1231/Atiya-leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Atiya1231/Atiya-leetcode/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |

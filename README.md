@@ -32,6 +32,7 @@ LeetHub v2 automatically syncs my accepted solutions to this repository.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Atiya1231/Atiya-leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Atiya1231/Atiya-leetcode/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -41,8 +42,13 @@ LeetHub v2 automatically syncs my accepted solutions to this repository.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Atiya1231/Atiya-leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Atiya1231/Atiya-leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Atiya1231/Atiya-leetcode/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Atiya1231/Atiya-leetcode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Atiya1231/Atiya-leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
